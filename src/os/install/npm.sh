@@ -26,6 +26,11 @@ main() {
     install_npm_package "Babel" "babel-cli"
     install_npm_package "JSHint" "jshint"
     install_npm_package "Yarn"  "yarn"
+    install_npm_package "angular-cli"  "angular-cli"
+    install_npm_package "webpack"  "webpack"
+    install_npm_package "nodemon"  "nodemon"
+    
+    
 
 }
 
